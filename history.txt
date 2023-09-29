@@ -1,0 +1,607 @@
+    1  code .
+    2  sudo apt update && sudo apt upgrade
+    3  python-V
+    4  python -V
+    5  sudo apt install python3
+    6  python3 -V
+    7  sudo apt install python3-pip
+    8  sudo apt update  --fix-missing
+    9  sudo apt install python3-pip
+   10  sudo apt install python3-venv
+   11  git clone https://github.com/Umuzi-org/ACN-syllabus.git
+   12  ls
+   13  cd ACN-syllabus
+   14  ls
+   15  code .
+   16  cd ACN-syllabus/
+   17  code .
+   18  git config --global user.name "faancy"
+   19  git status
+   20  git checkoout develop
+   21  git checkout develop
+   22  git checkout -b
+   23  git checkout -b java-solo-learn-deprecated
+   24  git status
+   25  git add
+   26  git add  content/topics/solo-learn/java
+   27  git status
+   28  git commit -m
+   29  git commit -m "Added 'deprecated' to titles"
+   30  git push
+   31  git push --set-upstream origin java-solo-learn-deprecated
+   32  git commit -m "Added 'deprecated' to titles"
+   33  git add
+   34  git add  content/topics/solo-learn/java
+   35  git status
+   36  git commit -m "Added 'deprecated' to titles"
+   37  git push
+   38  git status
+   39  hugo serve -b "http://localhost:1313/"
+   40  sudo apt  install hugo
+   41  hugo serve -b "http://localhost:1313/"
+   42  sudo apt install golang
+   43  ./install_hugo.sh
+   44  git branch
+   45  pipenv shell
+   46  python lint.py
+   47  hugo serve -b "http://localhost:1313/"
+   48  cd ACN-syllabus/
+   49  git branch
+   50  git checkout java-solo-learn-deprecated
+   51  cd ..
+   52  ls
+   53  git clone --recursive https://github.com/Faancy/ACN-syllabus.git
+   54  git clone https://Faancy:password@github.com/ACN-Syllabus/repo.git
+   55  git clone --recursive https://github.com/Faancy/ACN-syllabus.git
+   56  git checkout develop
+   57  sudo apt install golang
+   58  ./install_hugo.sh
+   59  ls
+   60  cd ..
+   61  ls
+   62  rm -rf ACN-syllabus/
+   63  ls
+   64  ./install_hugo.sh
+   65  cd ..
+   66  rm -fr ACN-syllabus/
+   67  git clone --recursive https://github.com/faancy/ACN-syllabus.git
+   68  git clone --recursive https://github.com/Faancy/ACN-syllabus.git
+   69  git config --global user.name "Faancy"
+   70  git config --global user.email "nancy.leshaba@umuzi.org"
+   71  git clone --recursive https://github.com/Faancy/ACN-syllabus.git
+   72  git clone --recursive git@github.com:Umuzi-org/ACN-syllabus.git
+   73  git clone --recursive https://github.com/Faancy/ACN-syllabus.git
+   74  git clone https://github.com/Umuzi-org/ACN-syllabus.git
+   75  ls
+   76  cd ACN-syllabus/
+   77  sudo apt install golang
+   78  ./install_hugo.sh
+   79  sudo apt install golang
+   80  ls
+   81  cd ACN-syllabus/
+   82  ls
+   83  sudo rm -fr ACN-syllabus/
+   84  sudo apt install golang
+   85  ./install_hugo.sh
+   86  code .
+   87  brew
+   88  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   89  brew install hugo
+   90  sudo
+   91  (echo; echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"') >> /home/nancy/.profile
+   92  sudo apt-get install build-essential
+   93  brew install gcc
+   94  brew install hugo
+   95  hugo serve -b "http://localhost:1313/"
+   96  hugo version
+   97  cd ..
+   98  ls
+   99  mkdir old
+  100  mv ACN-syllabus old
+  101  ssh-keygen -t ed25519 -C "nancy.leshaba@umuzi.org"
+  102  cat /home/nancy/.ssh/id_ed25519.pub 
+  103  ls
+  104  git clone --recursive git@github.com:Umuzi-org/ACN-syllabus.git
+  105  sudo apt install golang
+  106  ./install_hugo.sh
+  107  cd ACN-syllabus/
+  108  ./install_hugo.sh
+  109  hugo serve -b "http://localhost:1313/"
+  110  pip install pipenv
+  111  pipenv install
+  112  pipenv shell
+  113  python lint.py
+  114  hugo serve -b "http://localhost:1313/"
+  115  git status
+  116  git status
+  117  python lint.py
+  118  pipenv shell
+  119  python lint.py
+  120  git commit
+  121  git pull
+  122  git branch
+  123  git branch --set-upstream-to=origin/< java-solo-learn-deprecated>
+  124  git status
+  125  python lint.py
+  126  git push
+  127  git pull origin java-solo-learn-deprecated 
+  128  python lint.py
+  129  git status
+  130  python lint.py
+  131  pipenv shell
+  132  python lint.py
+  133  git push
+  134  git status
+  135  pipenv shell
+  136  git status
+  137  git branch
+  138  pipenv shell
+  139  python lint.py
+  140  git branch
+  141  git status
+  142  python lint.py
+  143  pipenv shell
+  144  git branch
+  145  git status
+  146  pipenv shell
+  147  python lint.py
+  148  hugo serve
+  149  python lint.py
+  150  git branch
+  151  git status
+  152  pipenv shell
+  153  python lint.py
+  154  git
+  155  git add content/_depricated/java-sololearn/
+  156  git status
+  157  git commit
+  158  git commit -m "moved java-sololearn to depricated folder"
+  159  git status
+  160  git add content/topics/solo-learn/java
+  161  git status
+  162  python lint.py
+  163  git status
+  164  git add content/_depricated/java-sololearn
+  165  git status
+  166  git add content/syllabuses/_depricated/java-bridging-course.md
+  167  git status
+  168  git add content/syllabuses/bootcamp-java-auto-boot.md
+  169  git status
+  170  git add content/syllabuses/java-part-1.md
+  171  git status
+  172  git add content/syllabuses/ncit-java.md
+  173  git status
+  174  git commit -m "Removed and fixed broken links"
+  175  git status
+  176  git add content/topics/solo-learn/java/1-getting-started-with-java/index.md
+  177  git status
+  178  git add content/topics/solo-learn/java/2-control-flow/index.md
+  179  git status
+  180  git add content/topics/solo-learn/java/3-arrays/index.md
+  181  git status
+  182  git add content/topics/solo-learn/java/4-methods/index.md
+  183  git status
+  184  git commit -m "Added content"
+  185  hugo serve
+  186  git status
+  187  git add content/topics/solo-learn/java/2-control-flow/index.md
+  188  git status
+  189  git add content/topics/solo-learn/java/3-arrays/index.md
+  190  gits status
+  191  git status
+  192  git add content/topics/solo-learn/java/4-methods/index.md
+  193  git status
+  194  git commit -m "Added correct links"
+  195  git status
+  196  python lint.py
+  197  git branch
+  198  git status
+  199  git push -u origin master
+  200  git pull origin java-solo-learn-deprecated
+  201  git log --oneline
+  202  git push
+  203  git push --set-upstream origin java-solo-learn-deprecated
+  204  git pull
+  205  git pull remote java-solo-learn-deprecated
+  206  git pull origin master
+  207  git push
+  208  git pull ACN-syllabus java-solo-learn-deprecated
+  209  git push --set-upstream origin java-solo-learn-deprecated~
+  210  git push --set-upstream origin java-solo-learn-deprecated
+  211  git push -u origin java-solo-learn-deprecated
+  212  git checkout -b FixForBug origin/dev
+  213  git checkout -b java-solo-learn-deprecated origin/dev
+  214  git pull --rebase
+  215  git branch --set-upstream-to=origin/develop java-solo-learn-deprecated
+  216  git push
+  217  git push origin java-solo-learn-deprecated
+  218  git push origin develop
+  219  git push --set-upstream origin java-solo-learn-deprecated
+  220  git pull
+  221  git branch
+  222  git push
+  223  git push origin master
+  224  git push origin development
+  225  git push origin java-solo-learn-deprecated
+  226  git fetch
+  227  git rebase feature/java-solo-learn-deprecated 
+  228  git rebase java-solo-learn-deprecated 
+  229  git push origin java-solo-learn-deprecated 
+  230  git pull origin java-solo-learn-deprecated
+  231  git merge develop
+  232  git status
+  233  git branch
+  234  git checkout develop
+  235  git fetch origin develop
+  236  git branch
+  237  git merge origin/develop
+  238  git checkout java-solo-learn-deprecated
+  239  git merge develop
+  240  git push origin java-solo-learn-deprecated
+  241  git pull
+  242  git status
+  243  git push
+  244  git branch
+  245  git push origin java-solo-learn-deprecated
+  246  cd ACN-syllabus/
+  247  git status
+  248  git branch
+  249  git push
+  250  git branch -a
+  251  git push origin java-solo-learne-deprecated
+  252  git push origin java-solo-learn-deprecated
+  253  git pull
+  254  git merge
+  255  git merge develop
+  256  git fetch
+  257  git fetch orgin
+  258  git fetch java-solo-learn-deprecated
+  259  git fetch origin
+  260  git merge origin/java-solo-learn-deprecated
+  261  git push origin java-solo-learn-deprecated
+  262  git merge origin/java-solo-learn-deprecated
+  263  git push
+  264  git fetch origin
+  265  git merge origin/java-solo-learn-deprecated
+  266  git push origin java-solo-learn-deprecated
+  267  git pull
+  268  sudo apt update
+  269  sudo apt install gh
+  270  gh auth login
+  271  gh pr create
+  272  git branch
+  273  git switch develop
+  274  git pull origin develop
+  275  git branch
+  276  git checkout java-solo-learn-deprecated
+  277  git branch
+  278  git status
+  279  git checkout java-solo-learn-deprecated
+  280  git add
+  281  git branch
+  282  git add
+  283  git status
+  284  git pull
+  285  git merge
+  286  git status
+  287  git pull
+  288  git merge develop
+  289  git add
+  290  git status
+  291  git push
+  292  git push origin/java-solo-learn-deprecated
+  293  git fetch origin
+  294  git fetch java-solo-learn-deprecated
+  295  git fetch origin
+  296  git merge origin/java-solo-learn-deprecated
+  297  git commit
+  298  git commit -m "Added content and removed dbid"
+  299  git push
+  300  git fetch origin
+  301  git fetch java-solo-learn-deprecated
+  302  git fetch origin
+  303  git merge origin/java-solo-learn-deprecated
+  304  git push origin java-solo-learn-deprecated
+  305  git merge origin java-solo-learn-deprecated
+  306  git status
+  307  git checkout java-solo-learn-deprecated
+  308  git checkout
+  309  git checckout develop
+  310  git checkout develop
+  311  git checkout java-solo-learn-deprecated
+  312  git branch
+  313  git status
+  314  git branch
+  315  git checkout java-solo-learn-deprecated
+  316  git checkout
+  317  git checkout ACN-syllabus/
+  318  git status
+  319  git fetch
+  320  git fetch origin
+  321  git fetch java-solo-learn-deprecated
+  322  git fetch origin
+  323  git merge origin/java-solo-learn-deprecated
+  324  git pull
+  325  git add
+  326  git status
+  327  git add content/projects/oop
+  328  git status
+  329  git add content/syllabuses/java-part-2.md
+  330  git status
+  331  git commit
+  332  git commit -m "requested changes"
+  333  git push
+  334  git push origin java-solo-learn-deprecated
+  335  git status
+  336  git merge origin java-solo-learn-deprecated
+  337  git push origin java-solo-learn-deprecated
+  338  git push
+  339  git push origin java-solo-learn-deprecated
+  340  git status
+  341  python lint.py
+  342  git branch
+  343  pipenv shell
+  344  python lint.py
+  345  pipenv shell
+  346  git add
+  347  git status
+  348  git add content/topics/solo-learn/java/5-classess-and objects/index.md
+  349  git status
+  350  git add content/topics/solo-learn/java/5-classess-and-objects/
+  351  git add
+  352  git add content/topics/solo-learn/java/5-classess-and-objects
+  353  git status
+  354  git add content/topics/solo-learn/java/7-exceptions-lists-threads-&-files/
+  355  git add content/topics/solo-learn/java/7-exceptions-lists-threads-&-files
+  356  git add content/topics/solo-learn/java/7-exceptions-lists-threads-&-files/
+  357  git status
+  358  git add content/topics/solo-learn/java/7-exceptions-lists-threads-&-files
+  359  git status
+  360  git add content/topics/solo-learn/java/7-exceptions-lists-threads-&-files
+  361  git branch
+  362  gits status
+  363  git status
+  364  git branch
+  365  git status
+  366  git add content/topics/solo-learn/java/7-exceptions-lists-threads-&-files/
+  367  git add content/topics/solo-learn/java/7-exceptions-lists-threads-
+  368  git status
+  369  git add content/topics/solo-learn/java/7-exceptions-lists-threads-&-files/
+  370  git status
+  371  pipenv shell
+  372  python lint.py
+  373  git status
+  374  git add content/topics/solo-learn/java/7-exceptions-lists-threads-&-files/
+  375  git add -A
+  376  gits status
+  377  git status
+  378  git commit -m "Fixed linter errors"
+  379  git push
+  380  git push origin java-solo-learn-deprecated
+  381  git merge origin java-solo-learn-deprecated
+  382  git push origin java-solo-learn-deprecated 
+  383  git merge origin java-solo-learn-deprecated 
+  384  git status
+  385  git push
+  386  git push origin java-solo-learn-deprecated 
+  387  git commit -m "Fixed linter errors"
+  388  git merge origin java-solo-learn-deprecated 
+  389  git push origin java-solo-learn-deprecated 
+  390  git merge develop
+  391  git fetch
+  392  git fetch java-solo-learn-deprecated
+  393  git merge origin/java-solo-learn-deprecated
+  394  git status
+  395  pipenv shell
+  396  python linter.py
+  397  python liny.py
+  398  python lint.py
+  399  git add
+  400  git add .
+  401  git commit -m "Added project links
+  402  hugo serve -b "http://localhost:1313/"
+  403  pipenv shell
+  404  python lint.py
+  405  git add
+  406  git add .
+  407  git commit -m "Linked java solo-learn module to syllabus"
+  408  git push
+  409  git push origin java-solo-learn-deprecated
+  410  hugo serve -b "http://localhost:1313/"
+  411  git pull
+  412  git push origin java-solo-learn-deprecated
+  413  git pull
+  414  git config pull.rebase false
+  415  git pull
+  416  git push
+  417  git log
+  418  git push --set-upstream java-solo-learn-deprecated
+  419  git push --set-upstream origin/java-solo-learn-deprecated
+  420  git push origin java-solo-learn-deprecated
+  421  git pull
+  422  git push origin java-solo-learn-deprecated
+  423  git push --f origin java-solo-learn-deprecated
+  424  git push -f origin java-solo-learn-deprecated
+  425  git status
+  426  git add
+  427  git add .
+  428  git commit -m "Removed special characters"
+  429  python lint.py
+  430  pipenv shell
+  431  python lint.py
+  432  hugo serve -b "http://localhost:1313/"
+  433  git push
+  434  git push origin java-solo-learn-deprecated
+  435  git add .
+  436  git commit -m "Renamed markdown files correctly"
+  437  python lint.py
+  438  pipenv shell
+  439  python lint.py
+  440  hugo serve -b "http://localhost:1313/"
+  441  git status
+  442  pipenv shell
+  443  python lint.py
+  444  git add .
+  445  pipenv shell
+  446  python lint.py
+  447  git pull
+  448  mkdir [git-basic-exercises]
+  449  cd git-basic-exercises
+  450  git branch
+  451  mkdir git-basic-exercises
+  452  cd git-basic-exercises/
+  453  ls -a
+  454  git init
+  455  ls -a
+  456  git status
+  457  touch README.md
+  458  ls -a
+  459  git status
+  460  git log
+  461  git add README.md
+  462  git status
+  463  git rm --cached README.md
+  464  git status
+  465  git add README.md 
+  466  git commit -m "initial commit"
+  467  git log
+  468  q
+  469  z
+  470  h
+  471  git-log
+  472  nano README.md
+  473  cat README.md
+  474  git status
+  475  git commit -m "second commit"
+  476  git add cat README.md
+  477  git add README.md
+  478  git commit -m "second commit"
+  479  nano README.MD
+  480  nano README.md
+  481  git add README.md
+  482  git commit -m "third commit"
+  483  git log
+  484  git checkout
+  485  git checkout cd3ab30a35721c79e12181bf005ab1397569fc98
+  486  cat README.md
+  487  git checkout main
+  488  git checkout master
+  489  cat README.md
+  490  git checkout
+  491  git checkout main
+  492  git branch milkshake-flavours
+  493  git branch
+  494  nano milkshakes.md
+  495  git status
+  496  gitt add
+  497  git add
+  498  git add milkshakes.md
+  499  git commit -m "added initial flavours"
+  500  git log
+  501  git checkout main
+  502  git checkout
+  503  git branch
+  504  git checkout milkshake-flavours 
+  505  git checkout main
+  506  git branch
+  507  git checkout master
+  508  git branch history
+  509  git checkout history
+  510  git log
+  511  git branch
+  512  history > history.txt
+  513  git commit -m "added history"
+  514  git log
+  515  git checkout milkshake-flavours 
+  516  git log
+  517  nano milkshakes.md
+  518  git commit -m "added initial flavours"
+  519  git log
+  520  git add milkshakes.md
+  521  git commit -m "added new flavours"
+  522  git log
+  523  nano milkshakes.md
+  524  git add milkshakes.md
+  525  git commit -m "random readme changes"
+  526  git checkout history
+  527  cat README.md
+  528  rm README.m
+  529  rm README.md
+  530  echo "booya" > README.md
+  531  git add README.MD
+  532  git add README.md
+  533  git commit -m "rewrote readme"
+  534  git checkout master
+  535  ls
+  536  git log
+  537  git checkout milkshake-flavours 
+  538  ls
+  539  git log
+  540  git status
+  541  git add history.txt
+  542  git status
+  543  git commit -m "added history"
+  544  git log
+  545  echo "I love plants"
+  546  echo "I love plants" > plants.txt
+  547  ls
+  548  cat README.md 
+  549  echo README.md > plants.txt
+  550  cat README.md > plants.txt
+  551  rm README.md 
+  552  ls
+  553  echo "booya" > README.md
+  554  git add README.md 
+  555  git commit -m "rewrote readme"
+  556  git checkout master
+  557  ls
+  558  git checkout milkshake-flavours 
+  559  ls
+  560  git log
+  561  git checkou milkshakes.md
+  562  git checkout milkshake-flavours 
+  563  ls
+  564  rm history.txt 
+  565  rm plants.txt 
+  566  git log
+  567  git reset HEAD^1
+  568  ls
+  569  git log
+  570  git reset HEAD^1
+  571  git log
+  572  git checkout master
+  573  git log
+  574* 
+  575  git log
+  576  git checkout master
+  577  ls
+  578  rm milkshakes.md 
+  579  ls
+  580  git log
+  581  git checkout milkshake-flavours 
+  582  git log
+  583  nano milkshakes.md
+  584  git checkout history 
+  585  git status
+  586  git log
+  587  git add README.md 
+  588  git commit -m "rewrote readme"
+  589  git status
+  590  git log
+  591  git checkout history
+  592  ls
+  593  rm milkshakes.md 
+  594  ls
+  595  history > history.txt
+  596  git add history.txt 
+  597  git commit -m "added history"
+  598  git log
+  599  ls
+  600  git reset HEAD^1
+  601  git log
+  602  git reset HEAD^1
+  603  git log
+  604  git reset HEAD^1
+  605  git log
+  606  ls
+  607  history > history.txt
